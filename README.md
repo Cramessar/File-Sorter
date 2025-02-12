@@ -26,7 +26,7 @@ This **glorious** piece of automation:
    ```
 4. Run the program:
    ```sh
-   python "Auto File Sorter.py"
+   python "File Sorter.py"
    ```
 
 ## 🚀 How to Use
