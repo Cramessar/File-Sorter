@@ -17,7 +17,7 @@ This **glorious** piece of automation:
 1. **Make sure you have Python installed.** If not, fix your life.  
 2. Clone this repo like a proper hacker:
    ```sh
-   git clone https://github.com/cramessar/File-Sorter.git
+   git clone https://github.com/Cramessar/File-Sorter.git
    cd Auto-File-Sorter
    ```
 3. Install the required dependencies:
