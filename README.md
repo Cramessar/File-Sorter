@@ -18,7 +18,7 @@ This **glorious** piece of automation:
 2. Clone this repo like a proper hacker:
    ```sh
    git clone https://github.com/Cramessar/File-Sorter.git
-   cd Auto-File-Sorter
+   cd File-Sorter
    ```
 3. Install the required dependencies:
    ```sh
